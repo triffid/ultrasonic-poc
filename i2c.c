@@ -10,6 +10,7 @@
 
 #include	"serial.h"
 #include	"sersendf.h"
+#include	"fastio.h"
 
 // #define F_I2C 100000UL
 #define F_I2C 100000UL
